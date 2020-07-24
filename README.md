@@ -1,4 +1,4 @@
-# MCA_assign3
+# Implementation of Word2Vec from scratch
 MCA assignment3
 
 Word2Vec has been implimented from scratch
